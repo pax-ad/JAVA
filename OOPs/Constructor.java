@@ -12,7 +12,7 @@ It is called automatically when using the new keyword. */
 public static void main(String[] args) {
 
         Student s1 = new Student();
-        //output: constructor called.
+        
     }
 
 
